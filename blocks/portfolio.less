@@ -1,0 +1,21 @@
+// main: ../style.less
+
+.portfolio {
+    margin: 0 -1rem 2.8rem;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio__col {
+    flex-basis: 33.33333%;
+    padding: 1rem;
+
+    cursor: pointer;
+    
+    transition: transform .2s linear;
+
+    &:hover {
+        transform: translateY(-5px);
+    }
+}

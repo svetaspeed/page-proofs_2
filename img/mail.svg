@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="31" viewBox="0 0 40 31">
+  <g id="Прямоугольник_401" data-name="Прямоугольник 401" stroke="#fff" stroke-width="1">
+    <rect width="40" height="31" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="30" fill="none"/>
+  </g>
+  <g id="Многоугольник_1" data-name="Многоугольник 1" transform="translate(40 18) rotate(180)">
+    <path d="M 37.39405059814453 17 L 2.605948925018311 17 L 20 1.345353960990906 L 37.39405059814453 17 Z" stroke="none"/>
+    <path d="M 20 2.690727233886719 L 5.211917877197266 16 L 34.78808212280273 16 L 20 2.690727233886719 M 20 0 L 40 18 L 0 18 L 20 0 Z" stroke="none" fill="#fff"/>
+  </g>
+</svg>
